@@ -1,4 +1,5 @@
 # PeopleOS — Employee Management Dashboard
+<img width="1335" height="2235" alt="localhost_5174_" src="https://github.com/user-attachments/assets/4ac72512-7686-4cad-8913-e97337119a30" />
 
 A modern HR dashboard built with **React + Vite** and **AG Grid Community**.
 
